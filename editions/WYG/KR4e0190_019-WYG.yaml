@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4e0190/WYG/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荆
+  hash: sha256:ebf8a759ed36e5b10704f03f515d4a6dec607db736c959249b48c780d8c0d0e8
+metadata:
+  title: 重刊荊川先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 17:04:25.378005'
+  source:
+    repository: kanripo
+    path: KR4e0190/KR4e0190_019.txt
+hash: sha256:bc5306cc860b0f2d1cddeaef9bdcb79b722fff004aa6193fa2fe2f84b0643e63

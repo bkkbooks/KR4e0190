@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4e0190/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月
+  hash: sha256:1625179badc027f0d0a26df9da3d4ae1be4483cc0a9365e54faab22fbe250055
+metadata:
+  title: 重刊荊川先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 17:04:25.378005'
+  source:
+    repository: kanripo
+    path: KR4e0190/KR4e0190_005.txt
+hash: sha256:468225e133a891d45056352c858df6e9357229a8150d38c2a76bb835bfe963de
