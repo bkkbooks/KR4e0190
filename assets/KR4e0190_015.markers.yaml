@@ -2942,6 +2942,7 @@ markers:
   - {type: indent, offset: 8057, content: 　, id: KR4e0190_krp_015-bkkind20}
   - {type: variant, offset: 8064, length: 1, content: 志, WYG: 誌}
   - {type: punctuation, offset: 8066, content: (, id: KR4e0190_krp_015-bkkpn1}
+  - {type: voice, offset: 8066, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 8069, content: ), id: KR4e0190_krp_015-bkkpn2}
   - {type: 'kr:newline', offset: 8069, content: '
 
@@ -5243,4 +5244,4 @@ markers:
 
       ', id: KR4e0190_krp_015-bkkkrnewl843}
   back: []
-hash: sha256:5a69c34aaccb98e414f93dabe911f6653d61f0b344d1e94b7eeb991b03dce988
+hash: sha256:8f1afa111698f5967205dbd0db3879af608643107fdba950e5300f48e3d96b5c

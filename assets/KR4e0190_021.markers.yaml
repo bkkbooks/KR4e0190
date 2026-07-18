@@ -8468,6 +8468,7 @@ markers:
   - {type: variant, offset: 17882, length: 3, content: 先生外, WYG: ''}
   - {type: variant, offset: 17887, length: 3, content: 之三畢, WYG: 十二}
   - {type: punctuation, offset: 17889, content: (, id: KR4e0190_krp_021-bkkpn1}
+  - {type: voice, offset: 17889, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 17890, content: ), id: KR4e0190_krp_021-bkkpn2}
   - {type: 'kr:newline', offset: 17890, content: '
 
@@ -8477,4 +8478,4 @@ markers:
 
       ', id: KR4e0190_krp_021-bkkkrnewl1119}
   back: []
-hash: sha256:14056a9cc5891ca48160068717efe8d7a42404ebbdcf9c342952970ab5e921f6
+hash: sha256:f6d4586b725d7b365fb9a748bb873fae355ac17f17feb97d7647e2be669f37ca
